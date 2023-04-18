@@ -1,0 +1,25 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "user": "Paul",
+            "title": "Make a cake",
+            "content": "Make a cake for my friends",
+            "created_at": "2023-04-18T12:12:36.166584+02:00"
+        },
+        {
+            "id": 2,
+            "user": "Joseph",
+            "title": "Do the dishes",
+            "content": "Do the dishes after class",
+            "created_at": "2023-04-17T12:24:36.166584+02:00"
+        },
+        {
+            "id": 3,
+            "user": "Murilo",
+            "title": "Run",
+            "content": "Run in the wood",
+            "created_at": "2023-02-17T12:54:36.166584+02:00"
+        }
+    ]
+}
