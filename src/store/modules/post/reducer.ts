@@ -6,7 +6,7 @@ const INITIAL_STATE: IPostState[] = [{
     user: '',
     title: '',
     content: '',
-    created_at: '',
+    created_at: new Date,
 }];
 
 const posts: Reducer<IPostState> = () => {
