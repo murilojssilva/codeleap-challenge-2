@@ -9,7 +9,7 @@ const INITIAL_STATE: IPostState[] = [{
     created_at: new Date,
 }];
 
-const posts: Reducer<IPostState> = () => {
+const posts: Reducer<IPostState[], IPostState> = () => {
     return INITIAL_STATE;
 }
 
